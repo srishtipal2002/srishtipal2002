@@ -9,3 +9,4 @@
 - 
   [HackerRank : @srishti](https://www.hackerrank.com/srishti1421_be20?hr_r=1)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=srishtipal2002&theme=radical)
