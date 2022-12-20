@@ -41,5 +41,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishtipal2002&show_icons=true&locale=en&layout=compact" alt="srishtipal2002" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishtipal2002&show_icons=true&locale=en" alt="srishtipal2002" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtipal2002&" alt="srishtipal2002" /></p>
